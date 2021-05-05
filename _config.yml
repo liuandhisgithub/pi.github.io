@@ -11,7 +11,7 @@ kramdown:
 
 paginate: 10
 paginate_path: "page/:num"
-baseurl: "pi.github.io"
+baseurl: ""
 
 
 
@@ -27,12 +27,20 @@ defaults:
 
 
 
-title: "For The Lovely World"
-email: liujinlei2016@163.com
+title: "bit-ranger"
+email: sincerebravefight@gmail.com
 description: ""
 github:
-  username: liuandhisgithub
+  username: bit-ranger
+swiftype:
+  searchId: iXZyPokVfxFaBTvi64Y6
+gitment:
+    repo: blog
+    client_id: a6fb73b3e790e234bab8
+    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
+url: "https://bit-ranger.github.io/blog"
+imgrepo: "https://bit-ranger.github.io/blog/static/img"
 
 
 #url: "http://127.0.0.1:4000"
