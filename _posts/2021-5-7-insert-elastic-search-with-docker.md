@@ -1,5 +1,6 @@
 ---
-title:在docker上安装elasticSearch
+title: 在docker上安装elasticSearch
+layout: post
 ---
 
 > ​    本菜鸟电脑是Windows的系统，我看网上很多的docker使用教程都是在Linux系统上使用的，但是无奈笔者的电脑实在没有多余的内存也没有多余的时间安装一个虚拟机，就在Windows系统上慢慢摸索着安装docker和elasticSearch，顺便把踩得坑记录一下

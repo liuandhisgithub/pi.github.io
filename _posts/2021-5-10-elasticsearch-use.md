@@ -1,5 +1,6 @@
 ---
-title:ElasticSearch的简单使用
+title: ElasticSearch的简单使用
+layout: post
 ---
 
 > ​    这篇文章使用的ES都是直接运行在Windows里的，并不是使用docker启动的，虽然在之前的博客里面我在docker上安装了ES并且正常启动了，但是目前我docker使用的非常不熟练，es上要安装ik分词器，但是我根本不知道怎么修改docker里image文件的内容和向image里面添加文件。其次，我之前搜索引擎使用的是solr，里面需要对每一个core配置一个结构，我想es也应该是这样，而且在我百度了一些文章之后发现的确如此，但是如果要我在docker里面频繁的修改我可能要花很多时间在docker的学习上。docker的确很有用，容器技术也是一个很方便的东西，但是不是我现在要专注的东西，所以我决定先直接在Windows上运行es，就像我之前选择在tomcat上运行solr一样。
